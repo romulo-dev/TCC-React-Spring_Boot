@@ -1,0 +1,25 @@
+.titulo{
+    height: 85px;
+    background-color: orange;
+}
+
+form{
+    
+    
+    border-top: 20px;
+}
+
+.card{
+    border: 1px solid;
+    height: 500px;
+    width: 650px;
+    margin: auto;
+}
+
+.inputIdade{
+    width: 50px;
+}
+
+form > input{
+    background-color: darkgray;
+}

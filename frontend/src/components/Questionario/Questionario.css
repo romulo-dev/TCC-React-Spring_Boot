@@ -1,0 +1,23 @@
+.container_questionario{
+    /* margin-left: 10px; */
+    /* max-width: 600px; */
+}
+
+
+
+.container_questionario > div > p{
+    color: black;
+}
+
+.box_questionario{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: none;
+}
+
+.info_questionario{
+    width: 400px;
+    background-color: blue;
+    margin-left: 50px;
+}

@@ -1,0 +1,23 @@
+.container-resultado{
+    display: flex;
+    flex-direction: row;
+    width: 900px;
+    height: 600px;
+
+}
+
+
+.resultado{
+    width: 400px;
+    height: 400px;
+    border: solid gray 1px;
+}
+
+.janela{
+    width: 500px;
+    height: 500px;
+    margin-left: 10px;
+    margin-right: 0;
+    /* background-color: antiquewhite; */
+    
+}

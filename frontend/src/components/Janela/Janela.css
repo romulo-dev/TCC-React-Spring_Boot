@@ -1,0 +1,46 @@
+
+/*.janela{
+     height: 500px;
+    width: 500px;
+    border: solid 1px; 
+    
+}*/
+
+.janela{
+    
+    margin-left: 190px;
+}
+
+#linha_numeros{
+    align-items: flex-end;
+    text-align: right;
+}
+
+.coluna1{
+    width: 53px;
+    margin-right: 0;
+    text-align: right;
+}
+.coluna2{
+    width: 52px;
+    margin-right: 0;
+    text-align: right;
+}
+
+.coluna3{
+    width: 52px;
+    margin-right: 0;
+    text-align: right;
+}
+
+.coluna4{
+    width: 52px;
+    margin-right: 0;
+    text-align: right;
+}
+
+.coluna5{
+    width: 52px;
+    margin-right: 0;
+    text-align: right;
+}

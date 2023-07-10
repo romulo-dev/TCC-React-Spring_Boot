@@ -1,0 +1,88 @@
+.chart-container{
+    width: 500px;
+    height: 500px;
+}
+
+#primeiroGrafico{
+    width: 500px;
+    height: 500px;
+    border: solid 1px;
+}
+
+.topRight{
+    color: black;
+    margin-right: 125px;
+    top: 10%;
+    margin-top: 100px;
+    position: fixed;
+}
+
+.cego{
+    top: 10%;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 300px;
+    color: white;
+}
+
+.desconhecido{
+    top: 10%;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 250px;
+    color: white;
+}
+
+.oculto{
+    top: 10%;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 50px;
+    color: white;
+}
+.aberto{
+    top: 10%;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 50px;
+    color: white;
+}
+
+.descricao_resultado{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.info_resultado{
+    width: 500px;
+    height: 500px;
+    border: solid 1px #504242;
+    margin-top: 10px;
+    margin-left: 100px;
+    min-width: 500px;
+    border-radius: 20px;
+    display: flex;
+    align-items: baseline;
+    flex-direction: column;
+}
+
+.info_resultado > div > span{
+    color: rgb(15, 15, 155);
+    font-weight: bold;
+}
+
+.info_resultado > div > label{
+    margin-left: 10px;
+    width: 100px;
+    margin-top: 15px;
+    background-color: #504242;
+    color: white;
+}
+
+.info_resultado > div > p{
+    color: rgb(15, 15, 155);
+    font-weight: bold;
+    
+    margin-top: 15px;
+}

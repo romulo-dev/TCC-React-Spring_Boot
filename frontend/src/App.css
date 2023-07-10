@@ -1,0 +1,16 @@
+body{
+    display: flexbox;
+    
+    align-items: center;
+    text-align: center;
+    background-color: #FFF;
+    justify-content: center;
+    
+}
+
+ /* .App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ */

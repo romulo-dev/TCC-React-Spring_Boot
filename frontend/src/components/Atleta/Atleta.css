@@ -1,0 +1,43 @@
+.main{
+    width: 300px;
+    height: 300px;
+    background-color: #33425B;
+    color: white;
+    float: left;
+    padding: 0;
+    margin: 0;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+.main h1{
+    color: white;
+    font-size: 20px;
+}
+
+.containerAtleta{
+    width: 800px;
+    height: 900px;
+    border: 0;
+    margin-right: 50px;
+}
+
+.caixa{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.chat{
+    position: relative;
+}
+
+.info_questionario{
+    width: 300px;
+    background-color: #33425B;
+    border-radius: 25px;
+    margin-right: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}

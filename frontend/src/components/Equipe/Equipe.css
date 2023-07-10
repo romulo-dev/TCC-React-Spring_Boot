@@ -1,0 +1,51 @@
+.container_equipe{
+    width: 250px;
+    height: 300px;
+    background-color: #ec0e33;
+    border-radius: 10px;
+}
+
+.info_equipe{
+    height: 250px;
+    background-color: #ec0e33;
+    border-radius: 10px;
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+}
+
+.info_equipe > div > span{
+    color: white
+}
+
+.equipe_acoes{
+    background-color: blue;
+    height: 50px;
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.equipe_acoes > button{
+    /* background-color: green;
+    color: white */
+}
+
+.ver_equipe{
+    /* color: black;
+    height: 20px; */
+}
+
+.lista_equipes{
+    display: inline-block;
+    width: 280px;
+    /* flex-direction: row; */
+    /* border: solid blue 1px; */
+}
+
+li{
+    text-decoration: none;
+    list-style: none;
+}

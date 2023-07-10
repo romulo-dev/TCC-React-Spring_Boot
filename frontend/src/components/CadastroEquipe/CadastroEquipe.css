@@ -1,0 +1,26 @@
+.orange{
+    background-color: orange;
+    width: 500px;
+    height: 70px;
+    margin-top: 0px;
+    display: block;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+
+}
+
+.form {
+    width: 500px;
+    background-color: #33425B;
+}
+
+ h1{
+    color: black;
+}
+
+.boxcadastro{
+    display: flex;
+    flex-direction: column;
+}

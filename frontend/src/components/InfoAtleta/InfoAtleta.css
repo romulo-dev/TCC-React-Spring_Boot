@@ -1,0 +1,12 @@
+.header-info{
+    background-color: #33425B;
+    display: flex;
+    height: 65px;
+    justify-content: space-between;
+}
+
+.titulo-info{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}

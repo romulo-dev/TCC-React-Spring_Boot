@@ -1,0 +1,58 @@
+.header{
+    background-color: #33425B;
+    display: flex;
+    height: 65px;
+    justify-content: space-between;
+    
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+nav a {
+
+    color: #fff;
+
+    margin: auto 20px auto 40px;
+
+    text-decoration: none;
+
+    font-weight: bold;
+
+    cursor: pointer;
+
+}
+
+nav li {
+
+    float: left;
+
+    list-style: none;
+
+    margin-left: 20px;
+    color: #fff;
+
+}
+
+.avatar{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #33425B;
+    color: #33425B;
+    /* background-color: #FFF url("../../../public/assets/User.png");
+    background-image: url("../../../public/assets/User.png"); */
+    margin-right: 10px;
+    margin-top: 4px;
+}
+
+.avatar img{
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+    
+}

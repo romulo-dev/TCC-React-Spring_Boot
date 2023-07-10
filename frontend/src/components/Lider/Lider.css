@@ -1,0 +1,43 @@
+
+
+/* .container{
+    background-color: darkgray;
+    
+} */
+
+.aside{
+    background-color: white;
+    margin-top: 50px;
+}
+
+.box_left{
+    background-color: white;
+    margin-top: 20px;
+    width: 200px;
+    height: 500px;
+    border: solid 1px;
+    
+    
+
+}
+
+/* .container{
+    display: flex;
+} */
+
+h1{
+    color: black;
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+    /* background-color: darkgray; */
+    
+}
+
+.box_right{
+    margin-top: 20px;
+    margin-left: 50px;
+}
